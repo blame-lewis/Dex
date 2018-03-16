@@ -18,11 +18,16 @@ It'll work with any WASAPI compatible soundcard (ie, if you can play music throu
 
 It can output MIDI which can be handled by basically any audio workstation ever made (FL Studio, Reason, Ableton, Pro Tools, etc etc) or it can output to the mouse cursor position which results in some rather creative uses (it's possible to play Counter-Strike with this).
 
+It can also output to the system volume control, in case that helps.
+
 # What kinds of timecode disk does it support?
 Testing was done with a Serato disk. Various others may work; give them a shot!
 
+# How complete is Dex?
+Dex has a working and viable relative timecode processor (ie, it's able to track movements of the stylus as you move it). This is fairly stable. It doesn't have an absolute timecode processor (ie, if you drop the needle halfway through a record it won't know exactly where you are), and it doesn't have the capacity to stretch audio according to movements (your audio workstation can handle this).
+
 # How can I use it?
-Dex is MIT licensed. This means the license basically just covers liability (ie, you can't sue us for anything the program does) and then allows pretty much any use you can think of, commercial, personal or otherwise. If you want to modify it in any way or incorporate it into another program, go nuts -- you don't need my permission.
+Dex is MIT licensed. This means the license basically just covers liability (ie, you can't sue us for anything the program does) and then allows pretty much any use you can think of, commercial, personal or otherwise. If you want to modify it in any way or incorporate it into another program, go nuts -- you don't need our permission.
 
 #Who wrote Dex?
 Lewis Hosie, from 9th Circle Software.
