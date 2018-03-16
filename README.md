@@ -1,3 +1,3 @@
 ![Dex Logo](Art/MainDexIconSmall.png)
 # Dex
-Timecode vinyl engine
+**Dex** is a timecode vinyl engine. 
