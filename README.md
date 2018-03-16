@@ -11,6 +11,8 @@ There is!
 
 Get your turntables. Real, actual turntables -- none of this MIDI controller crap -- and put real, actual vinyl disks on them. Timecode disks. Disks that have the playback position encoded onto the disk in digital format. You can buy these fairly inexpensively on eBay. Then when you plug those turntables into your soundcard (or audio interface) software can work out what position the cartridge is at extremely quickly. You can play literally any song you have a digital copy of on a vinyl disk, and scratch or beatmatch as if it were on the disk.
 
+![Screenshot](Screenshot.png)
+
 # So where does Dex fit in?
 Dex is a program that reads timecode information from the soundcard and outputs either MIDI or mouse positions.
 
