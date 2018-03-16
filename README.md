@@ -29,5 +29,5 @@ Dex has a working and viable relative timecode processor (ie, it's able to track
 # How can I use it?
 Dex is MIT licensed. This means the license basically just covers liability (ie, you can't sue us for anything the program does) and then allows pretty much any use you can think of, commercial, personal or otherwise. If you want to modify it in any way or incorporate it into another program, go nuts -- you don't need our permission.
 
-#Who wrote Dex?
-Lewis Hosie, from 9th Circle Software.
+# Who wrote Dex?
+Lewis Edwards, from 9th Circle Software.
