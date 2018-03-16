@@ -1,3 +1,3 @@
-![Dex Logo](Art/MainDexIcon.png)
+![Dex Logo](Art/MainDexIconSmall.png)
 # Dex
 Timecode vinyl engine
